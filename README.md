@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eyitayoit-alt
-- 👀 I’m interested in Python development,kv.lang, Django,PHP,laravel, Jquery JavaScript
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Python development,kv.lang, Django,PHP,laravel, Jquery JavaScript,React.js andNodejs
 - 💞️ I’m looking to collaborate on python projects and web development projects,frontend and backend
 - 📫 How to reach me eyitayoit@gmail.com
 
