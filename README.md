@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyitayoit-alt
-- 👀 I’m interested in Python development,kv.lang, Django,PHP,laravel, Jquery JavaScript,React.js andNodejs
-- 💞️ I’m looking to collaborate on python projects and web development projects,frontend and backend
+- 👀 I write technical articles, smart contracts. I develop dapp and web applications.
+- 💞️ I’m looking to collaborate on web3, fullstack web development projects and technical documentation.
 - 📫 How to reach me eyitayoit@gmail.com
 
 <!---
